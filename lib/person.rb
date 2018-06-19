@@ -4,7 +4,7 @@ class Person
   end
 
   def name=beyonce
-    @name = name
+    @name = beyonce
   end
 
   def job=(singer)
