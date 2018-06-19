@@ -17,10 +17,3 @@ class Person
 end
 
 beyonce = Person.new("Beyonce")
-
-
-# beyonce = Person.new
-# beyonce.name = "Beyonce"
-
-# singer = Person.new
-# beyonce.job = "Singer" 
