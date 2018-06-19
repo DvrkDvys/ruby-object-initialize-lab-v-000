@@ -3,12 +3,12 @@ class Dog
     @name = name
   end
   
-  def name=(fido)
-    @name = fido
-  end
-
   def name
     @name
+  end
+  
+  def name=(fido)
+    @name = fido
   end
 
   def breed=(mutt)
