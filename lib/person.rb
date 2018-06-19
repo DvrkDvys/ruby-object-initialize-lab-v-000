@@ -16,11 +16,11 @@ class Person
   end
 end
 
-lassie = Person.new("Beyonce")
+beyonce = Person.new("Beyonce")
 
 
-beyonce = Person.new
-beyonce.name = "Beyonce"
+# beyonce = Person.new
+# beyonce.name = "Beyonce"
 
-singer = Person.new
-beyonce.job = "Singer" 
+# singer = Person.new
+# beyonce.job = "Singer" 
